@@ -1,0 +1,13 @@
+
+// const AUTH_BEGIN = 'AUTH_BEGIN';
+// const AUTH_ERR = 'AUTH_ERR';
+// const AUTH_SUCCESS = 'AUTH_SUCCESS';
+
+
+const actiontyps = {
+    NOTIFICATION_BEGIN:'NOTIFICATION_BEGIN',
+    NOTIFICATION_ERR:'NOTIFICATION_ERR',
+    NOTIFICATION_SUCCESS:'NOTIFICATION_SUCCESS'
+}
+
+export default actiontyps;
